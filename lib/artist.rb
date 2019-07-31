@@ -40,6 +40,6 @@ class Artist
   end 
 
    def songs
-    @@all << @songs
+    @songs
   end
 end 
